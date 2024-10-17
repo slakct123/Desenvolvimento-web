@@ -18,3 +18,5 @@
 ##### _HTML5_
 ##### _CSS3_
 ##### _Javascript e jQuery_
+
+##### _José Miguel and Eduarda Rocha_
